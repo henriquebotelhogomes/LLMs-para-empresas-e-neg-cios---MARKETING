@@ -152,7 +152,7 @@ http://localhost:8501
 
 ## 👩‍💻 Autora
 
-Daniele Amaral\
+Henrique Botelho Gomes\
 Profissional em transição estratégica para Desenvolvimento de IA / LLM\
 Foco em aplicações práticas de IA para negócios
 
