@@ -150,7 +150,7 @@ http://localhost:8501
 
 ------------------------------------------------------------------------
 
-## 👩‍💻 Autora
+## 👩‍💻 Autor
 
 Henrique Botelho Gomes\
 Profissional em transição estratégica para Desenvolvimento de IA / LLM\
